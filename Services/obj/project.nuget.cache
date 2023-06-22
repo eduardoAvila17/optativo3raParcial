@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "00+FwfzjGyTxn4f6EoVkbnLWI0vIMSTOXOACwrwRx0MMIAbMQmoZDCVoo2Gnujj8XrNbE/52jO5wOKi7tA2x6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eavila\\source\\repos\\api.eavila.cuentas_\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eavila\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\eavila\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\eavila\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\eavila\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
